@@ -8,5 +8,10 @@ class Board
 
   def position
   end
-  
+
+  def update
+  end
+
+  def token
+  end
 end
