@@ -14,4 +14,16 @@ class Board
 
   def token
   end
+
+  def full?
+  end
+
+  def turn_count
+  end
+
+  def taken?
+  end
+
+  def valid_move?
+  end
 end
